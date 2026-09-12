@@ -1,4 +1,4 @@
-# Hi, I'm Chembonuh Ndeh Clement
+# Hi, I'm Chembonuh C.
 
 **Infrastructure Engineer · Infrastructure Automation Engineer · DevOps Engineer**  
 **Linux Administrator · Ansible Developer · Kubernetes & OpenShift**  
