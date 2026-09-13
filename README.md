@@ -31,6 +31,10 @@ I'm currently pursuing a master's degree in cybersecurity at GCU, deepening my s
 | Observability | Prometheus, Grafana, Loki, Nagios |
 | Security & Identity | SELinux, RBAC, Ansible Vault, Active Directory, LDAP, SSSD |
 
+## Articles & Lab Notes
+
+Explore my [Infrastructure & DevOps Lab Notes](articles/README.md) for practical guides on Linux, DevOps, containers, Ansible, and networking.
+
 ## What I'll Share Here
 
 - Infrastructure projects and reusable automation examples
